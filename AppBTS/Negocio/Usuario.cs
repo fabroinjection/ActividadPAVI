@@ -11,6 +11,7 @@ namespace AppBTS.Negocio
     class Usuario
     {
     
+        //comentario agregado :)
         // ejemplos prop
 
         private int id_usuario;
