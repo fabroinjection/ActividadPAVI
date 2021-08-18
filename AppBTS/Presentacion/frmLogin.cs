@@ -31,10 +31,7 @@ namespace AppBTS
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
-            //this.Text = "Logeo (?";
-
-            this.Text = "Logueo :(";
-
+            this.Text = "Logeo (?";
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
