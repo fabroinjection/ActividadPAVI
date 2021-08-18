@@ -32,8 +32,6 @@ namespace AppBTS
         private void frmLogin_Load(object sender, EventArgs e)
         {
 
-            //this.Text = "Logeo (?";
-
             this.Text = "Logueo :(";
 
         }
