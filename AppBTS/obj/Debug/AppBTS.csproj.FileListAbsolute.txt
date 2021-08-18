@@ -1,0 +1,11 @@
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\bin\Debug\AppBTS.exe.config
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\bin\Debug\AppBTS.exe
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\bin\Debug\AppBTS.pdb
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.csproj.AssemblyReference.cache
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.exe
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.pdb
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\UTN\UTN Tercer Año\PAV\Proyectos\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
